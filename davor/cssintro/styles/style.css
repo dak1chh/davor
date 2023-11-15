@@ -1,0 +1,37 @@
+* {
+  background-color: rgb(163, 240, 10);
+}
+
+h1 {
+  background-color: darkmagenta;
+}
+article {
+  color: hotpink !important;
+}
+
+#article-h5 {
+  color: lavender;
+  font-size: larger;
+}
+
+li > a {
+  background-color: rgb(224, 20, 20);
+}
+
+li a {
+  background-color: rgb(6, 180, 238);
+}
+
+#article-h5 + p {
+  background-color: rgb(155, 151, 150);
+  font-size: larger;
+}
+
+#myH1Element ~ p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: lightcoral;
+}
+#footer {
+  font-size: larger;
+  font-weight: bold;
+}
