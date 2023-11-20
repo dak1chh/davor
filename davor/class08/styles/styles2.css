@@ -39,3 +39,10 @@ border-width: 15px 7px 3px 10px;}
     border: 4px dashed red;
 border-radius: 10%;
 }
+.content{
+    width: 200px;
+    height: 100px;
+    background-color: indianred;
+    padding: 10px;
+    overflow: scroll;
+}
