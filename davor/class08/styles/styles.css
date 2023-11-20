@@ -1,0 +1,46 @@
+.image-block-paragraph {
+    width: 200px;
+}
+.block-header {
+    background-color: coral;
+    width: 70;
+    height: 100px;
+}
+.block-paragraph {
+    background-color: blue;
+}
+.block-ol {background-color: aqua;}
+.inline-span {
+    background-color: crimson;
+    height: 100px; 
+    width: 200px; 
+}
+.inline-strong {
+    background-color: cornflowerblue;
+}
+.block-div {
+    background-color: bisque;
+    height: 50px;
+    width: 200px;
+    display: inline;
+}
+sup { 
+    display: block;
+}
+.container {
+    text-align: center;
+}
+.box{
+    width: 150px;
+    height: 150px;
+    background-color: cyan;
+    border: 1px solid blue;
+    margin: 10px; 
+}
+.combaineed-box {
+    display: inline-block;
+}
+.test 
+{background-color: chartreuse;}
+#specific-box 
+{ width: 200px;}
